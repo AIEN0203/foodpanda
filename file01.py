@@ -1,3 +1,8 @@
+
+print("321")
+print("two")
+
+
 print("oSe")
 print("one")
 print("one")
