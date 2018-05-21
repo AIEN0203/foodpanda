@@ -1,3 +1,6 @@
+print("oSe")
+print("one")
+print("one")
 print("one")
 
 print("321")
