@@ -1,3 +1,3 @@
-print("one")
+print("xuan")
 
-print("two")
+print("xuan")
