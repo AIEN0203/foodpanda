@@ -1,14 +1,9 @@
+<<<<<<< HEAD
 print("xuan")
 
 
 print("xuan")
 
-print("321")
-
-print("two")
-
-
-print("321")
 
 
 print("thrww")
@@ -36,3 +31,7 @@ print("fivvvvvvvvvve")
 print("456")
 
 print("321")
+
+
+print("4456578456Gary")
+
